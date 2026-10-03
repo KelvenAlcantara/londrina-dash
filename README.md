@@ -9,7 +9,7 @@ reconciliado contra o Art. 2º da respectiva Lei Orçamentária Anual (LOA)
 — nada entra no painel sem bater com um número publicado oficialmente.
 
 ## Acessar o painel
-
+https://kelvenalcantara.github.io/londrina-dash/
 Publicado via GitHub Pages a partir da pasta [`docs/`](docs/) deste
 repositório. Também funciona offline, com duplo clique em qualquer
 arquivo — os dados já vêm embutidos:
